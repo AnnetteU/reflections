@@ -13,3 +13,7 @@ A: Add one change at a time, and also compare the staging area to the last commi
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A: When you want to try out something, or you want to have two versions of something
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: Makes it easier to see the tree structure
