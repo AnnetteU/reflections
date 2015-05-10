@@ -17,3 +17,7 @@ A: When you want to try out something, or you want to have two versions of somet
 Q: How do the diagrams help you visualize the branch structure?
 
 A: Makes it easier to see the tree structure
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: We can put together changes made by either different people or for different functionality. It is best represented as a graph.
