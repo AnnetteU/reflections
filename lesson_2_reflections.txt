@@ -21,3 +21,7 @@ A: Makes it easier to see the tree structure
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: We can put together changes made by either different people or for different functionality. It is best represented as a graph.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Automatic merging saves you a lot of work.
